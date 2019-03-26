@@ -9,7 +9,7 @@ Path    E:\SparkSource\scala\bin;%SPARK_HOME%\bin;
 ```
 因为我是在windows上开发,linux下环境变量路径有差异,不知道的可以百度一下<br>
 
-流处理所需要的数据文件可在[我的github]下载(https://github.com/CSSERVERDEV/sparkTestData)<br>
+流处理所需要的数据文件可在[我的github](https://github.com/CSSERVERDEV/sparkTestData)下载<br>
 -------
 [我的博客](https://www.cnblogs.com/zengsong-restService/)
 =======
